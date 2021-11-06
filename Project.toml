@@ -1,0 +1,7 @@
+name = "NashGames"
+uuid = "09922fe2-44bb-11ec-0dcf-cd0138771928"
+authors = ["Tangi Migot tangi.migot@gmail.com"]
+version = "0.1.0"
+
+[compat]
+julia = "1"

@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+NashGames = "09922fe2-44bb-11ec-0dcf-cd0138771928"
