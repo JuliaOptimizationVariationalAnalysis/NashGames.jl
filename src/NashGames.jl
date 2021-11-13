@@ -1,5 +1,5 @@
 module NashGames
 
-# Write your package code here.
+include("api.jl")
 
 end
