@@ -10,7 +10,7 @@ NLPModels = "a4795742-8479-5a88-8948-cc11e1c8c1a6"
 NLPModelsJuMP = "792afdf1-32c1-5681-94e0-d7bf7a5df49e"
 
 [compat]
-NLPModels = "0.17"
-NLPModelsJuMP = "0.8"
 JuMP = "0.22"
+NLPModels = "0.17, 0.18"
+NLPModelsJuMP = "0.8"
 julia = "1"
